@@ -14,4 +14,4 @@
 
 5. What are template literals?
    Template literals are used to write strings more easily using backticks (`) and ${} to insert variables. Example:   let name = "Arjito"; 
-console.log(`Hello ${name}`);
+
